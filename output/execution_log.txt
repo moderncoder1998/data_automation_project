@@ -1,0 +1,6 @@
+2026-06-29 19:54:50,320 - INFO - Started reading RemoteOK API
+2026-06-29 19:54:52,836 - INFO - API returned status code 200
+2026-06-29 19:54:52,840 - INFO - Fetched 100 jobs
+2026-06-29 19:54:52,855 - INFO - DataFrame created successfully
+2026-06-29 19:54:52,860 - INFO - -------- Starting data cleaning --------
+2026-06-29 19:54:52,891 - INFO - Data cleaning completed successfully.

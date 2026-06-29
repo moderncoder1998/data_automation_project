@@ -1,0 +1,7 @@
+Validation,Status,Message
+API Status Code,PASS,API returned status code 200
+Job Count,PASS,Fetched 100 jobs
+Column Selection,PASS,"Kept 7 columns: ['id', 'company', 'position', 'tags', 'salary_min', 'salary_max', 'date']"
+Duplicate Check,PASS,Removed 0 duplicate rows. 100 rows remaining.
+Keyword Filter,PASS,Found 5 matching jobs for 'python'.
+CSV Export,PASS,CSV saved to output\jobs_clean.csv
